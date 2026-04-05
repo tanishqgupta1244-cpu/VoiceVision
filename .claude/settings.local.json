@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh extension install:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git init:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git reset:*)",
+      "Bash(git update-ref:*)",
+      "WebSearch",
+      "Bash(xcodebuild:*)",
+      "Bash(swift build:*)"
+    ]
+  }
+}
